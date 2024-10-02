@@ -7,8 +7,8 @@ clc;
 rho = 1000;         % [kg/m^3]
 d = 1;              % [m]
 h0 = 2;             % [m]
-g = 9.81;           % [m/s^2]
-c = 0.1;            % [kg/s/Pa]
+g = 9.81;           % gravity [m/s^2]
+c = 0.1;            % Valve coefficient [kg/s/Pa]
 
 %%
 % Exponential time multiplier
